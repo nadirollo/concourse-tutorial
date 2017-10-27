@@ -8,3 +8,4 @@ echo "file4" > some-files/file4
 mkdir foo
 echo "foo1" > foo/foo1
 ls some-files/*
+ls foo/*
